@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap');
+
+body {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-image: url("northernlights.jpg");
+  background-color: #92A8D1;
+}
+
+header {
+  background-color: #FFFFFF;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #575757;
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: 'Garamond';}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: black;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+
+h5 {
+  font-size: 15px;
+  text-align: center;
+  color: black;
+}
+
+li {
+  font-size: 20px;
+  padding: 25px;
+  text-align: center;
+  list-style-position: inside;
+  font-family: 'Garamond', cursive;
+}
+
+ol {
+  background: #708090;
+  list-style-type: upper-roman;
+  padding: 80px;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Yomogi', cursive;
+  font-weight: bold;
+}
+
+p {
+  font-size: 30px;
+}
+
+table, th, td {
+  background-color: white;
+  border: 1px solid black;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 200px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+footer {
+  background-color: #FFFFFF;
+  text-align: center;
+  font-size: 14px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 10px 10px 10px #575757;
+}
+
+#achievements-img {
+  box-shadow: 10px 10px 10px #575757;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#EPimage {
+  box-shadow: 10px 10px 10px #575757;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#first-list {
+  font-size: 12px;
+  margin-right: 60px;
+  margin-left: 60px;
+  margin-bottom: 10px;
+  text-justify: inter-word;
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#img-caption {
+  color: black;
+  font-size: 40px;
+  color: black;
+  font-family: 'Garamond';
+  font-weight: bold;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#trek {
+  border-radius: 50%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.container {
+  background-color: #FFFFFF;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #575757;
+}
+
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  display : flex;
+  justify-content: center;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
