@@ -2,9 +2,11 @@
 
 :computer:
 
-Hi! This is a project I created for the  **In Digital Skills Bootcamp**. 
+This is a project I created for the  **In Digital Skills Bootcamp**. 
+Our lecturer was Dr Amna Eleyan from the Manchester Metropolitan University
+I achieved a grade of 100%
 
-![enter image description here](https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909_960_720.png)
+![enter image description here](https://cdn.pixabay.com/photo/2017/05/09/00/15/resume-2296951__340.png)
 
 # Files
 
